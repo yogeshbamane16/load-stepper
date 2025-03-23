@@ -1,3 +1,3 @@
 # load-stepper
-this is my first repository
-author - yogeshwar bamane
+this is my first repository <br>
+Author - Yogeshwar Bamane
